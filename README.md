@@ -7,6 +7,10 @@ Submitted to **Smart India Hackathon 2026** — Team Insite (Team ID: SIH26_241)
 Domain: Agriculture & Rural Development · Category: Software Edition
 **Result: Cleared the PPT screening round, advanced to Round 2**
 
+🔗 **Live Prototype:** [honeychain-beta.vercel.app](https://honeychain-beta.vercel.app/)
+*Front-end prototype demonstrating the batch verification flow — built for the
+SIH proposal round, not yet a production-ready system.*
+
 ## Problem
 
 The traditional honey supply chain is a blind, unverified loop. Consumers have no
